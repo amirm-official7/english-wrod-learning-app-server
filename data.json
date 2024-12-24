@@ -1,0 +1,38 @@
+{
+  "words": [
+    {
+      "id": "20241224185705792355",
+      "word": "run",
+      "definition": "1. To move quickly on foot.  \n   - Synonym: jog  \n   - Turkish: koşmak  \n\n2. To operate or function (as in machines or programs).  \n   - Synonym: operate  \n   - Turkish: çalışmak  \n\n3. To manage or direct (a business or organization).  \n   - Synonym: oversee  \n   - Turkish: yönetmek  \n\n4. To flow (as in liquids, like water).  \n   - Synonym: stream  \n   - Turkish: akmak  \n\n5. To compete in a race (like running events).  \n   - Synonym: race  \n   - Turkish: koşmak (yarışmak)  \n\n6. To extend in a certain direction or distance (to stretch out).  \n   - Synonym: stretch  \n   - Turkish: uzanmak  ",
+      "times_correct": 0,
+      "consecutive_correct": 0,
+      "incorrect_count": 0,
+      "last_asked": "2024-12-24T19:09:26.601Z",
+      "weight": 0
+    },
+    {
+      "id": "20241224185710791777",
+      "word": "export",
+      "definition": "1. To send goods or services to another country for sale.\n   - Synonym: Sell abroad\n   - Turkish: İhraç etmek\n\n2. To make something available for use in another place, especially software or files.\n   - Synonym: Transfer\n   - Turkish: Dışa aktarmak\n\n3. The act of exporting goods or services, often related to international trade.\n   - Synonym: Shipment\n   - Turkish: İhraç işlemi",
+      "times_correct": 0,
+      "consecutive_correct": 0,
+      "incorrect_count": 0,
+      "last_asked": "2024-12-24T19:09:39.229Z",
+      "weight": 0
+    },
+    {
+      "id": "20241224185715581939",
+      "word": "fuck",
+      "definition": "1. **To engage in sexual intercourse.**\n   - Synonym: Have sex\n   - Turkish: Seks yapmak\n\n2. **To mess something up or ruin it.**\n   - Synonym: Ruin\n   - Turkish: Berbat etmek\n\n3. **To annoy or upset someone.**\n   - Synonym: Bother\n   - Turkish: Rahatsız etmek\n\n4. **An exclamation of anger or frustration.**\n   - Synonym: Damn\n   - Turkish: Lanet\n\n5. **To cheat or deceive someone.**\n   - Synonym: Betray\n   - Turkish: Aldatmak\n\n6. **To treat someone badly or disrespectfully.**\n   - Synonym: Mistreat\n   - Turkish: Kötü muamele etmek",
+      "times_correct": 0,
+      "consecutive_correct": 0,
+      "incorrect_count": 0,
+      "last_asked": "2024-12-24T18:57:22.568Z",
+      "weight": 0
+    }
+  ],
+  "last_asked_list": [
+    "run",
+    "export"
+  ]
+}
